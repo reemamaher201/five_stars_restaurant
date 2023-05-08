@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202099291646",
+    "project_id": "five-stars-cc01d",
+    "storage_bucket": "five-stars-cc01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202099291646:android:9608f27bd0fe5bf26a7caf",
+        "android_client_info": {
+          "package_name": "com.example.five_stars_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202099291646-fepvj5nstrinva3nmkbrfnhbtmian04k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Hj479NU-XJ2KipH9ySr45JJhEKGGixE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202099291646-fepvj5nstrinva3nmkbrfnhbtmian04k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
